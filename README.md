@@ -8,9 +8,11 @@ Hi, I'm Augus, a self-taught back-end developer from China.
 
 ### REACH ME
 
-- <font color="#00BFFF">QQ</font> <img height="20" src="./src/loading.gif" alt="loading...">loading...</img>
-- <font color="#00FA9A">WeChat</font> <img height="20" src="./src/loading.gif" alt="loading...">loading...</img>
-- <font color="#00FFFF">Genshin Impact</font> 100793773
+<ul>
+  <li><img height="20" src="./src/01_qq_logo-1-300x144.png" alt="QQ"/> <img height="20" src="./src/loading.gif" alt="loading..."/></li>
+  <li><img height="20" src="./src/icon64_wx_logo.png" alt="WeChat"/> <img height="20" src="./src/loading.gif" alt="loading..."/></li>
+  <li><font color="#00FFFF">Genshin Impact</font> 100793773</li>
+</ul>
 
 ### nothing else
 
