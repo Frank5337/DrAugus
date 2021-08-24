@@ -17,7 +17,7 @@ Hi, I'm Augus, a self-taught back-end developer from China.
 <ul>
   <li><img height="20" src="./src/01_qq_logo-1-300x144.png" alt="QQ"/> <img height="20" src="./src/loading.gif" alt="loading..."/></li>
   <li><img height="20" src="./src/icon64_wx_logo.png" alt="WeChat"/> <img height="20" src="./src/loading.gif" alt="loading..."/></li>
-  <li> <img height="20" src="src/genshinImpact/feng.png"/><img height="20" src="src/genshinImpact/yan.png"/><img height="20" src="src/genshinImpact/lei.png"/><img height="20" src="src/genshinImpact/cao.png"/><img height="20" src="src/genshinImpact/shui.png"/><img height="20" src="src/genshinImpact/huo.png"/><img height="20" src="src/genshinImpact/bing.png"/>    <font color="#00FFFF">Genshin Impact</font> <img src="//i0.hdslb.com/bfs/article/916637ae86ff9365700b7f6cf13148e1a4282388.png" alt="dd" /> <img height="20" src="./src/loading.gif" alt="loading..."/></li>
+  <li> <img height="20" src="src/genshinImpact/feng.png"/><img height="20" src="src/genshinImpact/yan.png"/><img height="20" src="src/genshinImpact/lei.png"/><img height="20" src="src/genshinImpact/cao.png"/><img height="20" src="src/genshinImpact/shui.png"/><img height="20" src="src/genshinImpact/huo.png"/><img height="20" src="src/genshinImpact/bing.png"/><!-- <font color="#00FFFF">Genshin Impact</font> --><img height="20" src="./src/loading.gif" alt="loading..."/></li>
 </ul>
 
 ### nothing else
