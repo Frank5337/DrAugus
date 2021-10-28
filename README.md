@@ -1,18 +1,5 @@
 ### Hi there, I'm Augus 👋
 
-一个后端初学开发者
-
-### Languages and Tools:
-
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"><br>
-<a href="https://www.jetbrains.com/datagrip/?from=augus" target="_blank"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip logo."></a>
-<a href="https://www.jetbrains.com/clion/?from=augus" target="_blank"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" alt="CLion logo."></a>
-<a href="https://www.jetbrains.com/idea/?from=augus" target="_blank"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ logo."></a>
-<a href="https://www.jetbrains.com/webstorm/?from=augus" target="_blank"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm logo."></a>
-<a href="https://www.jetbrains.com/rider/?from=augus" target="_blank"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" alt="Rider logo."></a>
-<a href="https://www.jetbrains.com/pycharm/?from=augus" target="_blank"><img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm logo."></a>
-
-
 
 <!--
 ### REACH ME
@@ -23,11 +10,10 @@
 </ul>
 -->
 
-### NOW
 
-- 🔭 I’m currently working on DataSecurity
-- 🌱 I’m currently learning c艹
-- 💬 Ask me about <a href="https://github.com/DrAugus/DrAugus/issues" title="anything that you want to know">anything</a>
+- 🔭 currently working on DATA SECURITY
+- 🌱 learning C++ always
+- 💬 <a href="https://github.com/DrAugus/DrAugus/issues" title="anything that you want to know">ASK ME</a>
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrAugus&langs_count=10&layout=compact)](https://github.com/draugus)
 <!--&exclude_repo=DrAugus.github.io,DrAugus&theme=nord-->
