@@ -7,7 +7,7 @@
 
 
 website
-- [原神 Genshin](https://draugus.github.io/genshin)
+- [原神 Genshin](https://augusmeow.cn/list/genshin)
 
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrAugus&langs_count=10&layout=compact)](https://github.com/draugus)
