@@ -9,4 +9,4 @@
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrAugus&langs_count=8&layout=compact)](https://github.com/draugus)
 
-[![draugus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=draugus)](https://github.com/anuraghazra/github-readme-stats)
+[![draugus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrAugus)](https://github.com/anuraghazra/github-readme-stats)
